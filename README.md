@@ -7,17 +7,17 @@
 
 |장|깃허브|코랩|
 |---|--|--|
-| 1장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter01.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter01.ipynb) |
-| 2장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter02.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter02.ipynb) |
-| 3장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter03.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter03.ipynb) |
-| 4장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter04.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter04.ipynb) |
-| 5장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter05.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter05.ipynb) |
-| 6장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter06.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter06.ipynb) |
-| 7장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter07.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter07.ipynb) |
-| 8장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter08.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter08.ipynb) |
-| 9장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter09.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter09.ipynb) |
-| 10장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter10.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter10.ipynb) |
-| 11장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter11.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter11.ipynb) |
-| 12장 | [깃허브](https://github.com/rickiepark/handson-llm/blob/main/chapter12.ipynb) | [코랩](https://colab.research.google.com/github/rickiepark/handson-llm/blob/main/chapter12.ipynb) |
+| 1장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter01.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter01.ipynb) |
+| 2장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter02.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter02.ipynb) |
+| 3장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter03.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter03.ipynb) |
+| 4장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter04.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter04.ipynb) |
+| 5장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter05.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter05.ipynb) |
+| 6장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter06.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter06.ipynb) |
+| 7장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter07.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter07.ipynb) |
+| 8장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter08.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter08.ipynb) |
+| 9장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter09.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter09.ipynb) |
+| 10장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter10.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter10.ipynb) |
+| 11장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter11.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter11.ipynb) |
+| 12장 | [깃허브](https://github.com/qu367/handson-llm-ko/blob/main/chapter12.ipynb) | [코랩](https://colab.research.google.com/github/qu367/handson-llm-ko/blob/main/chapter12.ipynb) |
 
 <img src="https://tensorflow.blog/wp-content/uploads/2025/05/ed95b8eca688ec98a8_llm.jpg" width=500>
